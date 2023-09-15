@@ -2315,7 +2315,7 @@ main {
  }
  
  .about-awwwards .single-image  .overlay:nth-child(1) {
-    background: url("../img/DSC07292.jpg") center center no-repeat;
+    background: url("https://github.com/yashpp221/Portfolio/blob/main/yash%2011.png?raw=true") center center no-repeat;
     background-size: cover;
     height: 130%;
     top: -25%;
@@ -2393,7 +2393,7 @@ main {
     }
     
     .about-awwwards .single-image  .overlay:nth-child(1) {
-       background: url("../img/DSC07079.jpg") center center no-repeat;
+       background: url("https://github.com/yashpp221/Portfolio/blob/main/yash%2011.png?raw=true") center center no-repeat;
        background-size: cover;
        top: -8%;
        height: 110%;
